@@ -1,0 +1,10 @@
+CONFIDENTIAL -- Q3 2026 Financial Report
+=========================================
+Company      : Acme Corporation
+Revenue      :  $4,823,190.00
+Expenses     :  $2,190,440.00
+Net Profit   :  $2,632,750.00
+Customers    :  14,332
+Employees    :     847
+
+Database: prod_customers.db | Records: 14,332

