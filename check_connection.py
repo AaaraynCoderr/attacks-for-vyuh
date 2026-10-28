@@ -5,8 +5,8 @@ check_connection.py -- Run this on Laptop 3 to test connectivity
 import subprocess
 import socket
 
-LAPTOP1_IP = "10.82.166.229"   # Server
-LAPTOP2_IP = "10.82.166.1"     # Vyuh
+LAPTOP1_IP = "192.168.137.1"    # Server (hotspot)
+LAPTOP2_IP = "192.168.137.151"  # Vyuh
 
 def ping(ip):
     result = subprocess.run(

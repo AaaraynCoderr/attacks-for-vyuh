@@ -190,3 +190,166 @@
 2026-10-28 15:23:30,646 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTYsImhvc3Qi HTTP/1.1" 200 -
 2026-10-28 15:23:30,648 [INFO] [BEACON-ACK] Responded to JS beacon #52
 2026-10-28 15:23:42,706 [INFO] Server stopped. 0 requests, 0 clients.
+2026-10-28 15:24:30,629 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:24:30,630 [INFO] [BEACON-ACK] Responded to JS beacon #53
+2026-10-28 15:24:57,627 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:24:57,628 [INFO] [BEACON-ACK] Responded to JS beacon #54
+2026-10-28 15:25:28,636 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:25:28,638 [INFO] [BEACON-ACK] Responded to JS beacon #55
+2026-10-28 15:26:30,634 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:26:30,635 [INFO] [BEACON-ACK] Responded to JS beacon #56
+2026-10-28 15:27:30,637 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:27:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #57
+2026-10-28 15:28:26,182 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:28:26,184 [INFO] [BEACON-ACK] Responded to JS beacon #58
+2026-10-28 15:28:53,626 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:28:53,629 [INFO] [BEACON-ACK] Responded to JS beacon #59
+2026-10-28 15:29:27,629 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:29:27,631 [INFO] [BEACON-ACK] Responded to JS beacon #60
+2026-10-28 15:30:30,627 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:30:30,628 [INFO] [BEACON-ACK] Responded to JS beacon #61
+2026-10-28 15:31:30,634 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:31:30,636 [INFO] [BEACON-ACK] Responded to JS beacon #62
+2026-10-28 15:32:30,636 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:32:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #63
+2026-10-28 15:33:30,637 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:33:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #64
+2026-10-28 15:34:30,638 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MjksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:34:30,640 [INFO] [BEACON-ACK] Responded to JS beacon #65
+2026-10-28 15:35:30,639 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:35:30,640 [INFO] [BEACON-ACK] Responded to JS beacon #66
+2026-10-28 15:36:30,631 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:36:30,632 [INFO] [BEACON-ACK] Responded to JS beacon #67
+2026-10-28 15:37:30,636 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:37:30,637 [INFO] [BEACON-ACK] Responded to JS beacon #68
+2026-10-28 15:38:30,640 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:38:30,642 [INFO] [BEACON-ACK] Responded to JS beacon #69
+2026-10-28 15:39:30,644 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:39:30,645 [INFO] [BEACON-ACK] Responded to JS beacon #70
+2026-10-28 15:40:30,340 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:40:30,341 [INFO] [BEACON-ACK] Responded to JS beacon #71
+2026-10-28 15:40:59,634 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:40:59,640 [INFO] [BEACON-ACK] Responded to JS beacon #72
+2026-10-28 15:41:29,642 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:41:29,644 [INFO] [BEACON-ACK] Responded to JS beacon #73
+2026-10-28 15:42:30,637 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:42:30,639 [INFO] [BEACON-ACK] Responded to JS beacon #74
+2026-10-28 15:43:30,626 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MzksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:43:30,627 [INFO] [BEACON-ACK] Responded to JS beacon #75
+2026-10-28 15:44:30,629 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:44:30,630 [INFO] [BEACON-ACK] Responded to JS beacon #76
+2026-10-28 15:45:30,630 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:45:30,631 [INFO] [BEACON-ACK] Responded to JS beacon #77
+2026-10-28 15:46:30,637 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:46:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #78
+2026-10-28 15:47:30,649 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:47:30,651 [INFO] [BEACON-ACK] Responded to JS beacon #79
+2026-10-28 15:48:30,640 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:48:30,642 [INFO] [BEACON-ACK] Responded to JS beacon #80
+2026-10-28 15:49:30,634 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:49:30,635 [INFO] [BEACON-ACK] Responded to JS beacon #81
+2026-10-28 15:50:30,639 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:50:30,641 [INFO] [BEACON-ACK] Responded to JS beacon #82
+2026-10-28 15:51:30,641 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:51:30,643 [INFO] [BEACON-ACK] Responded to JS beacon #83
+2026-10-28 15:51:39,276 [INFO] === Attack Server starting on 0.0.0.0:8888 ===
+2026-10-28 15:52:30,635 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:52:30,637 [INFO] [BEACON-ACK] Responded to JS beacon #84
+2026-10-28 15:53:30,638 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NDksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:53:30,640 [INFO] [BEACON-ACK] Responded to JS beacon #85
+2026-10-28 15:54:30,640 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:54:30,641 [INFO] [BEACON-ACK] Responded to JS beacon #86
+2026-10-28 15:55:30,644 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:55:30,645 [INFO] [BEACON-ACK] Responded to JS beacon #87
+2026-10-28 15:56:31,382 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:56:31,383 [INFO] [BEACON-ACK] Responded to JS beacon #88
+2026-10-28 15:57:30,450 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:57:30,451 [INFO] [BEACON-ACK] Responded to JS beacon #89
+2026-10-28 15:58:30,462 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:58:30,463 [INFO] [BEACON-ACK] Responded to JS beacon #90
+2026-10-28 15:59:30,904 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:59:30,904 [INFO] [BEACON-ACK] Responded to JS beacon #91
+2026-10-28 16:00:30,456 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:00:30,457 [INFO] [BEACON-ACK] Responded to JS beacon #92
+2026-10-28 16:01:30,477 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:01:30,478 [INFO] [BEACON-ACK] Responded to JS beacon #93
+2026-10-28 16:02:30,459 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:02:30,460 [INFO] [BEACON-ACK] Responded to JS beacon #94
+2026-10-28 16:03:30,469 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NTksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:03:30,470 [INFO] [BEACON-ACK] Responded to JS beacon #95
+2026-10-28 16:04:30,475 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:04:30,478 [INFO] [BEACON-ACK] Responded to JS beacon #96
+2026-10-28 16:05:30,480 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:05:30,485 [INFO] [BEACON-ACK] Responded to JS beacon #97
+2026-10-28 16:06:30,462 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:06:30,462 [INFO] [BEACON-ACK] Responded to JS beacon #98
+2026-10-28 16:07:30,454 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:07:30,455 [INFO] [BEACON-ACK] Responded to JS beacon #99
+2026-10-28 16:08:30,475 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:08:30,475 [INFO] [BEACON-ACK] Responded to JS beacon #100
+2026-10-28 16:09:30,474 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:09:30,475 [INFO] [BEACON-ACK] Responded to JS beacon #101
+2026-10-28 16:10:30,452 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:10:30,454 [INFO] [BEACON-ACK] Responded to JS beacon #102
+2026-10-28 16:11:30,457 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:11:30,458 [INFO] [BEACON-ACK] Responded to JS beacon #103
+2026-10-28 16:12:30,457 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:12:30,458 [INFO] [BEACON-ACK] Responded to JS beacon #104
+2026-10-28 16:13:30,483 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NjksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:13:30,485 [INFO] [BEACON-ACK] Responded to JS beacon #105
+2026-10-28 16:14:30,461 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:14:30,463 [INFO] [BEACON-ACK] Responded to JS beacon #106
+2026-10-28 16:15:30,469 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:15:30,470 [INFO] [BEACON-ACK] Responded to JS beacon #107
+2026-10-28 16:16:30,457 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:16:30,458 [INFO] [BEACON-ACK] Responded to JS beacon #108
+2026-10-28 16:17:30,452 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:17:30,453 [INFO] [BEACON-ACK] Responded to JS beacon #109
+2026-10-28 16:18:30,463 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:18:30,464 [INFO] [BEACON-ACK] Responded to JS beacon #110
+2026-10-28 16:19:04,449 [INFO] Server stopped. 0 requests, 0 clients.
+2026-10-28 16:19:30,455 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:19:30,457 [INFO] [BEACON-ACK] Responded to JS beacon #111
+2026-10-28 16:20:30,462 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:20:30,463 [INFO] [BEACON-ACK] Responded to JS beacon #112
+2026-10-28 16:21:30,474 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:21:30,475 [INFO] [BEACON-ACK] Responded to JS beacon #113
+2026-10-28 16:22:30,446 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:22:30,447 [INFO] [BEACON-ACK] Responded to JS beacon #114
+2026-10-28 16:22:39,833 [INFO] === Attack Server starting on 0.0.0.0:8888 ===
+2026-10-28 16:23:30,457 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NzksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:23:30,458 [INFO] [BEACON-ACK] Responded to JS beacon #115
+2026-10-28 16:23:52,251 [INFO] [HTTP] 127.0.0.1 -- "GET / HTTP/1.1" 200 -
+2026-10-28 16:24:30,461 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:24:30,463 [INFO] [BEACON-ACK] Responded to JS beacon #117
+2026-10-28 16:25:30,444 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:25:30,450 [INFO] [BEACON-ACK] Responded to JS beacon #118
+2026-10-28 16:26:30,456 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:26:30,458 [INFO] [BEACON-ACK] Responded to JS beacon #119
+2026-10-28 16:27:30,454 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:27:30,455 [INFO] [BEACON-ACK] Responded to JS beacon #120
+2026-10-28 16:28:30,461 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:28:30,465 [INFO] [BEACON-ACK] Responded to JS beacon #121
+2026-10-28 16:29:30,453 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:29:30,455 [INFO] [BEACON-ACK] Responded to JS beacon #122
+2026-10-28 16:30:30,647 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:30:30,648 [INFO] [BEACON-ACK] Responded to JS beacon #123
+2026-10-28 16:30:38,371 [INFO] [HTTP] 10.82.166.229 -- "GET / HTTP/1.1" 200 -
+2026-10-28 16:30:49,398 [INFO] [HTTP] 10.82.166.229 -- code 501, message Unsupported method ('POST')
+2026-10-28 16:30:49,399 [INFO] [HTTP] 10.82.166.229 -- "POST /mcp HTTP/1.1" 501 -
+2026-10-28 16:30:49,404 [INFO] [HTTP] 10.82.166.229 -- "GET / HTTP/1.1" 200 -
+2026-10-28 16:30:59,235 [INFO] [HTTP] 10.82.166.229 -- "GET /loginMsg.js HTTP/1.1" 404 -
+2026-10-28 16:30:59,237 [INFO] [HTTP] 10.82.166.229 -- "GET /cgi/get.cgi?cmd=home_login HTTP/1.1" 404 -
+2026-10-28 16:31:30,476 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:31:30,477 [INFO] [BEACON-ACK] Responded to JS beacon #128
+2026-10-28 16:32:30,462 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:32:30,572 [INFO] [BEACON-ACK] Responded to JS beacon #129
+2026-10-28 16:33:30,466 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6ODksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:33:30,467 [INFO] [BEACON-ACK] Responded to JS beacon #130
+2026-10-28 16:34:30,462 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6OTAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:34:30,465 [INFO] [BEACON-ACK] Responded to JS beacon #131
+2026-10-28 16:35:30,463 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6OTEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:35:30,464 [INFO] [BEACON-ACK] Responded to JS beacon #132
+2026-10-28 16:36:30,459 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6OTIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 16:36:30,459 [INFO] [BEACON-ACK] Responded to JS beacon #133
+2026-10-28 16:36:46,885 [INFO] Server stopped. 0 requests, 0 clients.
