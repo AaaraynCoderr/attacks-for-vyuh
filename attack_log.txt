@@ -23,3 +23,170 @@
 2026-10-27 21:55:36,896 [INFO] [EXFIL] 'logo.png' (76B) -> 192.168.1.10
 2026-10-27 21:55:37,383 [INFO] [EXFIL] Done: 232B exfiltrated for 'credentials.txt'
 2026-10-27 21:55:39,960 [INFO] [EXFIL] Done: 104B exfiltrated for 'logo.png'
+2026-10-28 14:56:17,783 [INFO] === Attack Server starting on 0.0.0.0:8888 ===
+2026-10-28 14:56:51,173 [INFO] === Attack Server starting on 0.0.0.0:8888 ===
+2026-10-28 14:57:18,505 [INFO] [PORT-SCAN] Scanning new client: 127.0.0.1
+2026-10-28 14:57:18,509 [INFO] [HTTP] 127.0.0.1 -- "GET / HTTP/1.1" 200 -
+2026-10-28 14:57:18,774 [INFO] [HTTP] 127.0.0.1 -- "GET /favicon.ico HTTP/1.1" 404 -
+2026-10-28 14:57:20,576 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MSwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 14:57:20,578 [INFO] [BEACON-ACK] Responded to JS beacon #3
+2026-10-28 14:57:22,422 [INFO] [PORT-SCAN] 127.0.0.1:135 -- OPEN
+2026-10-28 14:57:24,156 [INFO] [PORT-SCAN] 127.0.0.1:445 -- OPEN
+2026-10-28 14:57:27,553 [INFO] [PORT-SCAN] Done: 127.0.0.1 -- 2/18 open
+2026-10-28 14:57:46,618 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MiwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 14:57:46,619 [INFO] [BEACON-ACK] Responded to JS beacon #4
+2026-10-28 14:58:17,638 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MywiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 14:58:17,640 [INFO] [BEACON-ACK] Responded to JS beacon #5
+2026-10-28 14:58:45,630 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NCwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 14:58:45,631 [INFO] [BEACON-ACK] Responded to JS beacon #6
+2026-10-28 14:59:11,634 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NSwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 14:59:11,635 [INFO] [BEACON-ACK] Responded to JS beacon #7
+2026-10-28 14:59:44,631 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NiwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 14:59:44,633 [INFO] [BEACON-ACK] Responded to JS beacon #8
+2026-10-28 15:00:30,638 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NywiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:00:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #9
+2026-10-28 15:01:30,639 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6OCwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:01:30,640 [INFO] [BEACON-ACK] Responded to JS beacon #10
+2026-10-28 15:02:30,640 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6OSwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:02:30,641 [INFO] [BEACON-ACK] Responded to JS beacon #11
+2026-10-28 15:03:30,645 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:03:30,645 [INFO] [BEACON-ACK] Responded to JS beacon #12
+2026-10-28 15:04:23,587 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:04:23,588 [INFO] [BEACON-ACK] Responded to JS beacon #13
+2026-10-28 15:04:54,624 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:04:54,627 [INFO] [BEACON-ACK] Responded to JS beacon #14
+2026-10-28 15:05:29,638 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:05:29,639 [INFO] [BEACON-ACK] Responded to JS beacon #15
+2026-10-28 15:06:30,637 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:06:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #16
+2026-10-28 15:07:30,644 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:07:30,645 [INFO] [BEACON-ACK] Responded to JS beacon #17
+2026-10-28 15:08:30,656 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:08:30,658 [INFO] [BEACON-ACK] Responded to JS beacon #18
+2026-10-28 15:09:30,639 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTcsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:09:30,641 [INFO] [BEACON-ACK] Responded to JS beacon #19
+2026-10-28 15:09:38,917 [INFO] [HTTP] 127.0.0.1 -- "GET /files/customers.csv HTTP/1.1" 200 -
+2026-10-28 15:09:38,920 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-28 15:09:38,921 [INFO] [EXFIL] 'customers.csv' (1,888B) -> 192.168.13.7
+2026-10-28 15:09:39,009 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:09:39,009 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:09:39,061 [INFO] [EXFIL] Done: 0B exfiltrated for 'customers.csv'
+2026-10-28 15:09:40,673 [INFO] [HTTP] 127.0.0.1 -- Request timed out: TimeoutError('timed out')
+2026-10-28 15:10:02,972 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTgsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:10:02,973 [INFO] [BEACON-ACK] Responded to JS beacon #21
+2026-10-28 15:10:32,245 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTksImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:10:32,246 [INFO] [BEACON-ACK] Responded to JS beacon #22
+2026-10-28 15:10:38,515 [INFO] [HTTP] 127.0.0.1 -- "GET /files/logo.png HTTP/1.1" 200 -
+2026-10-28 15:10:38,517 [INFO] [DNS-TUNNEL] Tunneling 76B in 5 DNS queries
+2026-10-28 15:10:38,518 [INFO] [EXFIL] 'logo.png' (76B) -> 192.168.13.7
+2026-10-28 15:10:38,527 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:10:38,527 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:10:38,579 [INFO] [EXFIL] Done: 0B exfiltrated for 'logo.png'
+2026-10-28 15:10:40,515 [INFO] [HTTP] 127.0.0.1 -- Request timed out: TimeoutError('timed out')
+2026-10-28 15:10:43,314 [INFO] [HTTP] 127.0.0.1 -- "GET /files/dashboard.html HTTP/1.1" 200 -
+2026-10-28 15:10:43,319 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-28 15:10:43,320 [INFO] [EXFIL] 'dashboard.html' (319B) -> 192.168.13.7
+2026-10-28 15:10:43,328 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:10:43,329 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:10:43,382 [INFO] [EXFIL] Done: 0B exfiltrated for 'dashboard.html'
+2026-10-28 15:10:45,325 [INFO] [HTTP] 127.0.0.1 -- Request timed out: TimeoutError('timed out')
+2026-10-28 15:10:46,389 [INFO] [HTTP] 127.0.0.1 -- "GET / HTTP/1.1" 200 -
+2026-10-28 15:10:47,484 [INFO] [HTTP] 127.0.0.1 -- "GET /files/credentials.txt HTTP/1.1" 200 -
+2026-10-28 15:10:47,487 [INFO] [DNS-TUNNEL] Tunneling 173B in 10 DNS queries
+2026-10-28 15:10:47,489 [INFO] [EXFIL] 'credentials.txt' (173B) -> 192.168.13.7
+2026-10-28 15:10:47,495 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:10:47,495 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:10:47,549 [INFO] [EXFIL] Done: 0B exfiltrated for 'credentials.txt'
+2026-10-28 15:10:49,033 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MSwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:10:49,035 [INFO] [BEACON-ACK] Responded to JS beacon #27
+2026-10-28 15:10:52,192 [INFO] [HTTP] 127.0.0.1 -- "GET /files/credentials.txt HTTP/1.1" 200 -
+2026-10-28 15:10:52,195 [INFO] [DNS-TUNNEL] Tunneling 173B in 10 DNS queries
+2026-10-28 15:10:52,197 [INFO] [EXFIL] 'credentials.txt' (173B) -> 192.168.13.7
+2026-10-28 15:10:52,205 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:10:52,208 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:10:52,262 [INFO] [EXFIL] Done: 0B exfiltrated for 'credentials.txt'
+2026-10-28 15:11:22,636 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MiwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:11:22,637 [INFO] [BEACON-ACK] Responded to JS beacon #29
+2026-10-28 15:11:54,631 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MywiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:11:54,632 [INFO] [BEACON-ACK] Responded to JS beacon #30
+2026-10-28 15:12:26,468 [INFO] [PORT-SCAN] Scanning new client: 192.168.9.184
+2026-10-28 15:12:26,470 [INFO] [HTTP] 192.168.9.184 -- "GET /files/financial_report.txt HTTP/1.1" 200 -
+2026-10-28 15:12:26,472 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-28 15:12:26,473 [INFO] [EXFIL] 'financial_report.txt' (308B) -> 192.168.13.7
+2026-10-28 15:12:26,475 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:12:26,475 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:12:26,526 [INFO] [EXFIL] Done: 0B exfiltrated for 'financial_report.txt'
+2026-10-28 15:12:26,628 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NCwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:12:26,629 [INFO] [BEACON-ACK] Responded to JS beacon #32
+2026-10-28 15:12:28,174 [INFO] [PORT-SCAN] 192.168.9.184:25 -- OPEN
+2026-10-28 15:12:28,518 [INFO] [HTTP] 192.168.9.184 -- "GET /files/customers.csv HTTP/1.1" 200 -
+2026-10-28 15:12:28,519 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-28 15:12:28,520 [INFO] [EXFIL] 'customers.csv' (1,888B) -> 192.168.13.7
+2026-10-28 15:12:28,523 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:12:28,523 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:12:28,575 [INFO] [EXFIL] Done: 0B exfiltrated for 'customers.csv'
+2026-10-28 15:12:29,343 [INFO] [PORT-SCAN] 192.168.9.184:110 -- OPEN
+2026-10-28 15:12:29,432 [INFO] [PORT-SCAN] 192.168.9.184:135 -- OPEN
+2026-10-28 15:12:29,510 [INFO] [PORT-SCAN] 192.168.9.184:139 -- OPEN
+2026-10-28 15:12:29,565 [INFO] [PORT-SCAN] 192.168.9.184:143 -- OPEN
+2026-10-28 15:12:30,114 [INFO] [HTTP] 192.168.9.184 -- "GET /files/dashboard.html HTTP/1.1" 200 -
+2026-10-28 15:12:30,115 [INFO] [DNS-TUNNEL] Tunneling 200B in 11 DNS queries
+2026-10-28 15:12:30,115 [INFO] [EXFIL] 'dashboard.html' (319B) -> 192.168.13.7
+2026-10-28 15:12:30,121 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:12:30,122 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:12:30,175 [INFO] [EXFIL] Done: 0B exfiltrated for 'dashboard.html'
+2026-10-28 15:12:30,251 [INFO] [PORT-SCAN] 192.168.9.184:445 -- OPEN
+2026-10-28 15:12:32,098 [INFO] [HTTP] 192.168.9.184 -- "GET /files/credentials.txt HTTP/1.1" 200 -
+2026-10-28 15:12:32,101 [INFO] [DNS-TUNNEL] Tunneling 173B in 10 DNS queries
+2026-10-28 15:12:32,102 [INFO] [EXFIL] 'credentials.txt' (173B) -> 192.168.13.7
+2026-10-28 15:12:32,107 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:12:32,107 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:12:32,159 [INFO] [EXFIL] Done: 0B exfiltrated for 'credentials.txt'
+2026-10-28 15:12:33,653 [INFO] [PORT-SCAN] Done: 192.168.9.184 -- 6/18 open
+2026-10-28 15:12:33,847 [INFO] [HTTP] 192.168.9.184 -- "GET /files/logo.png HTTP/1.1" 200 -
+2026-10-28 15:12:33,849 [INFO] [DNS-TUNNEL] Tunneling 76B in 5 DNS queries
+2026-10-28 15:12:33,849 [INFO] [EXFIL] 'logo.png' (76B) -> 192.168.13.7
+2026-10-28 15:12:33,853 [INFO] [HTTP] 192.168.13.7 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:12:33,854 [INFO] [HTTP] 192.168.13.7 -- "POST /upload HTTP/1.1" 501 -
+2026-10-28 15:12:33,905 [INFO] [EXFIL] Done: 0B exfiltrated for 'logo.png'
+2026-10-28 15:12:55,638 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NSwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:12:55,639 [INFO] [BEACON-ACK] Responded to JS beacon #37
+2026-10-28 15:13:25,631 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NiwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:13:25,633 [INFO] [BEACON-ACK] Responded to JS beacon #38
+2026-10-28 15:14:30,636 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6NywiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:14:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #39
+2026-10-28 15:15:30,634 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6OCwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:15:30,636 [INFO] [BEACON-ACK] Responded to JS beacon #40
+2026-10-28 15:16:30,634 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6OSwiaG9zdCI6 HTTP/1.1" 200 -
+2026-10-28 15:16:30,636 [INFO] [BEACON-ACK] Responded to JS beacon #41
+2026-10-28 15:17:30,639 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTAsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:17:30,640 [INFO] [BEACON-ACK] Responded to JS beacon #42
+2026-10-28 15:18:30,636 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTEsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:18:30,638 [INFO] [BEACON-ACK] Responded to JS beacon #43
+2026-10-28 15:19:30,637 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTIsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:19:30,637 [INFO] [BEACON-ACK] Responded to JS beacon #44
+2026-10-28 15:19:37,112 [INFO] [PORT-SCAN] Scanning new client: 10.82.166.229
+2026-10-28 15:19:37,112 [INFO] [HTTP] 10.82.166.229 -- "GET / HTTP/1.1" 200 -
+2026-10-28 15:19:38,787 [INFO] [PORT-SCAN] 10.82.166.229:25 -- OPEN
+2026-10-28 15:19:39,950 [INFO] [PORT-SCAN] 10.82.166.229:110 -- OPEN
+2026-10-28 15:19:40,003 [INFO] [PORT-SCAN] 10.82.166.229:135 -- OPEN
+2026-10-28 15:19:40,055 [INFO] [PORT-SCAN] 10.82.166.229:139 -- OPEN
+2026-10-28 15:19:40,108 [INFO] [PORT-SCAN] 10.82.166.229:143 -- OPEN
+2026-10-28 15:19:40,711 [INFO] [PORT-SCAN] 10.82.166.229:445 -- OPEN
+2026-10-28 15:19:43,013 [INFO] [HTTP] 10.82.166.229 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:19:43,013 [INFO] [HTTP] 10.82.166.229 -- "POST /mcp HTTP/1.1" 501 -
+2026-10-28 15:19:43,016 [INFO] [HTTP] 10.82.166.229 -- "GET / HTTP/1.1" 200 -
+2026-10-28 15:19:43,020 [INFO] [HTTP] 10.82.166.229 -- "GET /loginMsg.js HTTP/1.1" 404 -
+2026-10-28 15:19:43,022 [INFO] [HTTP] 10.82.166.229 -- "GET /cgi/get.cgi?cmd=home_login HTTP/1.1" 404 -
+2026-10-28 15:19:44,118 [INFO] [PORT-SCAN] Done: 10.82.166.229 -- 6/18 open
+2026-10-28 15:19:48,533 [INFO] [HTTP] 10.82.166.229 -- code 501, message Unsupported method ('POST')
+2026-10-28 15:19:48,534 [INFO] [HTTP] 10.82.166.229 -- "POST / HTTP/1.1" 501 -
+2026-10-28 15:20:30,636 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTMsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:20:30,637 [INFO] [BEACON-ACK] Responded to JS beacon #49
+2026-10-28 15:21:30,638 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTQsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:21:30,639 [INFO] [BEACON-ACK] Responded to JS beacon #50
+2026-10-28 15:22:30,642 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTUsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:22:30,643 [INFO] [BEACON-ACK] Responded to JS beacon #51
+2026-10-28 15:23:30,646 [INFO] [HTTP] 127.0.0.1 -- "GET /beacon?id=eyJpZCI6MTYsImhvc3Qi HTTP/1.1" 200 -
+2026-10-28 15:23:30,648 [INFO] [BEACON-ACK] Responded to JS beacon #52
+2026-10-28 15:23:42,706 [INFO] Server stopped. 0 requests, 0 clients.

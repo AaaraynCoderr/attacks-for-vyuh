@@ -16,9 +16,9 @@
 #
 #  SET THESE 3 IPs to match your actual laptops:
 # ============================================================
-LAPTOP1_IP = "192.168.13.7"     # Laptop 1: runs 07_attack_server.py  (SERVER)
+LAPTOP1_IP = "10.82.166.229"    # Laptop 1: runs 07_attack_server.py  (SERVER)
 LAPTOP2_IP = "10.82.166.1"     # Laptop 2: runs Vyuh detection tool  (VYUH)
-LAPTOP3_IP = "10.124.150.101"  # Laptop 3: runs 08_client.py         (CLIENT)
+LAPTOP3_IP = "192.168.9.184"    # Laptop 3: runs 08_client.py         (CLIENT)
 
 # How traffic flows through Vyuh (choose one):
 #   "proxy"       -- Client sends requests to Vyuh proxy, Vyuh forwards to server
